@@ -54,7 +54,7 @@
 ---
 
 ## 📂 Featured Projects  
-- 🧠 **Machine Learning Model (Scikit-Learn)**  
+- 🧠 **Adidas Sales Dashboard (Interactive Dashboard creation using MS excel)**  
 - 📊 **Sales Dashboard — Power BI**  
 - 📈 **Data Visualization — Seaborn & Matplotlib**  
 - 🗄️ **Hospital_Emegency_room_SQL_Projecte**  
