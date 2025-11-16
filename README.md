@@ -57,7 +57,7 @@
 - 🧠 **Machine Learning Model (Scikit-Learn)**  
 - 📊 **Sales Dashboard — Power BI**  
 - 📈 **Data Visualization — Seaborn & Matplotlib**  
-- 🗄️ **MySQL End-to-End Data Pipeline**  
+- 🗄️ **Hospital_Emegency_room_SQL_Projecte**  
 - 🔍 **EDA & Feature Engineering on Real Datasets**  
 
 ---
