@@ -24,31 +24,7 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## `whoami`
 
-```python
-class PrayasBotake:
-    name       = "Prayas Botake"
-    role       = ["Data Scientist", "AI Builder", "ML Engineer"]
-    location   = "Pune, Maharashtra 🇮🇳"
-
-    skills = {
-        "languages" : ["Python", "SQL", "JavaScript"],
-        "ml_stack"  : ["Scikit-Learn", "Pandas", "NumPy"],
-        "viz"       : ["Power BI", "Tableau", "Seaborn"],
-        "ai_tools"  : ["Claude (Anthropic)", "Multi-Agent Systems"]
-    }
-
-    currently_building = "FraudGuard AI — stops UPI fraud in 60 seconds"
-    learning           = ["Deep Learning", "LLM Engineering", "MLOps"]
-    goal               = "Top 1% Data Professional"
-    open_to            = "Collaborations, Internships, Hackathons"
-
-    def life_philosophy(self):
-        return "Don't just analyze the world. Build something that changes it."
-```
-
-<br clear="right"/>
 
 ---
 
