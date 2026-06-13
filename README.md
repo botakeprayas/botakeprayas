@@ -76,20 +76,19 @@ I'm a **Data Science & Machine Learning enthusiast** passionate about extracting
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=botakeprayas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=botakeprayas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=botakeprayas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botakeprayas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
+
+> 💡 *More Python projects coming soon — currently building my portfolio with real ML use cases.*
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=botakeprayas&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=botakeprayas&theme=discord&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ---
