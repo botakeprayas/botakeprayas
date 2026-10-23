@@ -1,126 +1,159 @@
+<!-- ============================================================
+  Prayas Botake — GitHub profile README
+  Search for "TODO" before committing: those are details to verify.
+  ============================================================ -->
+
 <div align="center">
 
-<!-- Typing Animation Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Prayas+Botake+%F0%9F%91%8B;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Turning+Data+into+Decisions" alt="Typing SVG" />
+# Prayas Botake
 
-<br/>
+**ML & Data Engineer** · Time-Series Machine Learning · MLOps
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prayas-botake-172171341" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/botakeprayas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=botakeprayas&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+Building sensor-data pipelines, anomaly-detection and forecasting models,<br>
+and reproducible ML workflows. Growing from Machine Learning Engineer toward AI/ML Engineer.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prayas_Botake-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayas-botake-172171341)
+[![GitHub](https://img.shields.io/badge/GitHub-botakeprayas-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/botakeprayas)
+![Location](https://img.shields.io/badge/Pune,_India-1E1B4B?style=flat-square&logo=googlemaps&logoColor=A5B4FC)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Data Science & Machine Learning enthusiast** passionate about extracting meaningful insights from complex datasets and building intelligent systems that solve real-world problems.
+I am a Computer Engineering student (2023–2027) and a working **ML and Data Engineer**. My work centres on turning raw sensor and time-series data into reliable machine-learning systems: cleaning and storing the data, engineering features, training and evaluating models, and exposing them through APIs.
 
-- 🎯 **Currently:** Actively seeking opportunities in Data Science / ML Engineering
-- 🌱 **Learning:** Advanced Deep Learning, MLOps, and model deployment
-- 💡 **Interests:** Predictive Modeling · NLP · Computer Vision · Data Analytics
-- 📊 **Philosophy:** *"Data is the new oil — I help refine it."*
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/prayas-botake-172171341)
+I care about reproducibility and honest evaluation, so I track experiments, version artifacts, and prefer a working baseline over an unproven complex model.
 
----
+## Current Role and Engineering Interests
 
-## 🛠️ Tech Stack & Skills
+**Role:** ML and Data Engineer
+**Direction:** Machine Learning Engineer → AI/ML Engineer
 
-### 🐍 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3C8DBC?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+| Focus area | What it covers |
+|---|---|
+| **Time-series ML** | Forecasting and anomaly detection on sensor data |
+| **Data engineering** | Cleaning, feature engineering, PostgreSQL and TimescaleDB storage |
+| **Deep learning and NLP** | Neural networks, text classification pipelines, transformer models (learning) |
+| **MLOps** | Experiment tracking, model artifacts, API serving, containerised workflows |
 
 ---
 
-## 📈 GitHub Analytics
+## Technical Stack
+
+Grouped by how I use each technology: **hands-on** is regular working use; **in progress / learning** is actively being built up.
+
+| Domain | Hands-on | In progress / learning |
+|---|---|---|
+| **Programming and analysis** | ![Python](https://img.shields.io/badge/Python-1E1B4B?style=flat-square&logo=python&logoColor=A5B4FC) ![SQL](https://img.shields.io/badge/SQL-1E1B4B?style=flat-square&logo=postgresql&logoColor=A5B4FC) ![NumPy](https://img.shields.io/badge/NumPy-1E1B4B?style=flat-square&logo=numpy&logoColor=A5B4FC) ![Pandas](https://img.shields.io/badge/Pandas-1E1B4B?style=flat-square&logo=pandas&logoColor=A5B4FC) ![Matplotlib](https://img.shields.io/badge/Matplotlib-1E1B4B?style=flat-square&logo=matplotlib&logoColor=A5B4FC) ![Seaborn](https://img.shields.io/badge/Seaborn-1E1B4B?style=flat-square&logoColor=A5B4FC) | n/a |
+| **Machine learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1E1B4B?style=flat-square&logo=scikitlearn&logoColor=A5B4FC) Feature engineering · Model evaluation · Time-series forecasting · Anomaly detection | Advanced forecasting methods |
+| **Deep learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E1B4B?style=flat-square&logo=tensorflow&logoColor=A5B4FC) ![Keras](https://img.shields.io/badge/Keras-1E1B4B?style=flat-square&logo=keras&logoColor=A5B4FC) ![PyTorch](https://img.shields.io/badge/PyTorch-1E1B4B?style=flat-square&logo=pytorch&logoColor=A5B4FC) Deep neural networks | Sequence models for sensor data |
+| **NLP** | Text preprocessing · Tokenization · TF-IDF · Text classification · NLP pipelines | ![Hugging Face](https://img.shields.io/badge/Transformers-1E1B4B?style=flat-square&logo=huggingface&logoColor=A5B4FC) Transformer models |
+| **Databases and data engineering** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1B4B?style=flat-square&logo=postgresql&logoColor=A5B4FC) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1E1B4B?style=flat-square&logo=timescale&logoColor=A5B4FC) ![MySQL](https://img.shields.io/badge/MySQL-1E1B4B?style=flat-square&logo=mysql&logoColor=A5B4FC) Time-series data processing | n/a |
+| **MLOps and deployment** | REST APIs · Experiment tracking | ![Docker](https://img.shields.io/badge/Docker-1E1B4B?style=flat-square&logo=docker&logoColor=A5B4FC) ![MLflow](https://img.shields.io/badge/MLflow-1E1B4B?style=flat-square&logo=mlflow&logoColor=A5B4FC) ![FastAPI](https://img.shields.io/badge/FastAPI-1E1B4B?style=flat-square&logo=fastapi&logoColor=A5B4FC) Model serving · Model monitoring |
+| **Analytics and tools** | ![Git](https://img.shields.io/badge/Git-1E1B4B?style=flat-square&logo=git&logoColor=A5B4FC) ![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=flat-square&logo=github&logoColor=A5B4FC) ![VS Code](https://img.shields.io/badge/VS_Code-1E1B4B?style=flat-square&logo=visualstudiocode&logoColor=A5B4FC) ![Jupyter](https://img.shields.io/badge/Jupyter-1E1B4B?style=flat-square&logo=jupyter&logoColor=A5B4FC) ![Colab](https://img.shields.io/badge/Colab-1E1B4B?style=flat-square&logo=googlecolab&logoColor=A5B4FC) ![Power BI](https://img.shields.io/badge/Power_BI-1E1B4B?style=flat-square&logo=powerbi&logoColor=A5B4FC) ![Tableau](https://img.shields.io/badge/Tableau-1E1B4B?style=flat-square&logo=tableau&logoColor=A5B4FC) | n/a |
+
+---
+
+## Featured Projects
+
+### INTeLLISeNZ: Structural Health Monitoring
+
+`Status: Active development`
+
+A structural health monitoring system that analyses sensor data from structures such as bridges, buildings, tunnels, and retaining walls. It covers the path from raw time-series data to model output.
+
+- Sensor time-series ingestion, cleaning, and feature engineering
+- Anomaly detection and forecasting with machine-learning and deep-learning models
+- Storage in PostgreSQL and TimescaleDB
+- API integration and dashboard development
+- Model evaluation and MLOps workflows
+
+**Stack:** Python · Scikit-learn · TensorFlow/Keras · PostgreSQL · TimescaleDB · MLflow
+
+<!-- TODO: Replace with the real repository URL, or delete this line if the code is private or employer-owned. -->
+[Repository](https://github.com/botakeprayas/REPLACE_WITH_INTELLISENZ_REPO)
+
+### Live Motion Sensor Classification
+
+`Status: Working prototype`  <!-- TODO: confirm status -->
+
+A real-time motion classifier built on an MPU6050 accelerometer and gyroscope. An Arduino streams sensor readings over serial, a Python process runs live inference, and Streamlit visualises the predicted motion.
+
+- Arduino-based sensor data acquisition
+- Live serial streaming into Python
+- Machine-learning classification of motion patterns
+- Streamlit interface for live visualisation
+
+**Stack:** Arduino · Python · Scikit-learn · Streamlit
+
+<!-- TODO: Replace with the real repository URL. -->
+[Repository](https://github.com/botakeprayas/REPLACE_WITH_MOTION_CLASSIFIER_REPO)
+
+### MLflow and Model Deployment Platform
+
+`Status: In progress`
+
+An ML engineering project for tracking experiments, managing model artifacts, and serving models through an API. The goal is a reproducible path from training run to deployed service.
+
+- Experiment tracking and model artifact management with MLflow
+- Model serving through FastAPI
+- Containerised workflow with Docker
+
+**Stack:** Python · MLflow · FastAPI · Docker
+
+<!-- TODO: Replace with the real repository URL. -->
+[Repository](https://github.com/botakeprayas/REPLACE_WITH_MLFLOW_DEPLOYMENT_REPO)
+
+### Data Analytics Projects
+
+Earlier work in SQL, Excel, and Power BI that built my foundation in data cleaning and business analysis.
+
+| Project | Focus |
+|---|---|
+| [Hospital Emergency Room SQL Project](https://github.com/botakeprayas/Hospital_Emegency_room_SQL_Project) | SQL analysis of 9,216 emergency-room patient records: admissions, referrals, satisfaction, wait times |
+| [E-Commerce Performance Dashboard](https://github.com/botakeprayas/E-Commerce-Performance-Dashboard) | SQL and Power BI analysis of revenue, customer behaviour, and operational efficiency |
+| [E-Commerce Sales Analysis Dashboard](https://github.com/botakeprayas/E-Commerce-Sales-Analysis-Dashboard-Power-BI-) | Interactive Power BI dashboard on revenue trends, top products, and customer demographics |
+| [HR Attrition and Workforce Insights](https://github.com/botakeprayas/HR-Attrition-Workforce-Insights-Dashboard) | Workforce and attrition dashboard |
+| [Data Analysis Dashboard](https://github.com/botakeprayas/Data_Analysis_dashboard) | Excel dashboards covering data processing, cleaning, and analysis |
+
+---
+
+## Current Learning Focus
+
+- **Production ML workflows:** reproducible training with MLflow, Docker, and FastAPI
+- **Model monitoring:** detecting data drift and performance decay after deployment
+- **Transformer models:** applying them to NLP tasks beyond TF-IDF baselines
+- **Time-series deep learning:** stronger forecasting and anomaly-detection methods for sensor data
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=botakeprayas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=botakeprayas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" alt="Prayas Botake's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=botakeprayas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" />
 
+<img width="100%" alt="Prayas Botake's GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=botakeprayas&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=3B82F6&area=true&area_color=6366F1&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+## Contact
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=botakeprayas&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+I am glad to talk about time-series ML, sensor-data projects, MLOps, or engineering careers.
 
----
-
-## 🎯 What I'm Working On
-
-```python
-prayas = {
-    "currently_learning" : ["Deep Learning", "MLOps", "Model Deployment"],
-    "open_to"            : ["Data Science Roles", "ML Engineering", "Data Analyst Positions"],
-    "tools_of_trade"     : ["Python", "TensorFlow", "Scikit-learn", "SQL", "Power BI"],
-    "goal_2024"          : "Build impactful ML projects & land my first DS role",
-    "fun_fact"           : "I visualize data before I visualize my day 📊"
-}
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to interesting conversations, collaboration, and new opportunities.
-
-**If you're looking for a dedicated, fast-learning Data Science fresher — let's talk!**
-
-<a href="https://www.linkedin.com/in/prayas-botake-172171341">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayas-botake-172171341)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/botakeprayas)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" alt="footer"/>
+
+<sub>Prayas Botake · ML and Data Engineer · Pune, India</sub>
+
 </div>
