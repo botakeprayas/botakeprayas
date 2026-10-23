@@ -5,7 +5,7 @@
   ============================================================ -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Prayas Botake, aspiring AI/ML Engineer. Python, SQL, Scikit-learn, TensorFlow, PyTorch, PostgreSQL." width="100%" />
+  <img src=""C:\Users\User\Downloads\banner.svg"" alt="Prayas Botake, aspiring AI/ML Engineer. Python, SQL, Scikit-learn, TensorFlow, PyTorch, PostgreSQL." width="100%" />
 </div>
 
 <br>
